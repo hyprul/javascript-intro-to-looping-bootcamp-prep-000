@@ -11,7 +11,7 @@ function forLoop(input){
   return input
 }
 
-function whleLoop(n){
+function whileLoop(n){
   var countdown =n;
   while(countdown > 0){
     console.log(--countdown)
