@@ -11,7 +11,10 @@ function forLoop(input){
   return input
 }
 
-function whileLoop(n){
-  countdown =n;
-  
+function whleLoop(n){
+  var countdown =n;
+  while(countdown > 0){
+    console.log(--countdown)
+  }
+  return "done"s
 }
