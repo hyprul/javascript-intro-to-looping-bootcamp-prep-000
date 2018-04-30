@@ -10,3 +10,8 @@ function forLoop(input){
   
   return input
 }
+
+function whileLoop(n){
+  countdown =n;
+  
+}
