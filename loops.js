@@ -16,5 +16,5 @@ function whleLoop(n){
   while(countdown > 0){
     console.log(--countdown)
   }
-  return "done"s
+  return "done"
 }
